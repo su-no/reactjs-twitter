@@ -1,9 +1,8 @@
+import AppRouter from './Router';
 
-function App() {
+const App = () => {
   return (
-    <div>
-
-    </div>
+    <AppRouter />
   );
 }
 
