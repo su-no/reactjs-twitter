@@ -1,8 +1,5 @@
-// support absolute imports (starts with src/...)
-
 {
   "compilerOptions": {
-  "baseUrl": "src",
-  },
-  "include": ["src"],
+  "baseUrl": "src"},
+  "include": ["src"]
 }
